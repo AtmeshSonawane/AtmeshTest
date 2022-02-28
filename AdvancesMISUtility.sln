@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMU.UI", "AMU.UI\AMU.UI.csproj", "{AE7BF5F5-B016-4CC1-853B-4BB832DF1B08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMU.DAL", "AMU.DAL\AMU.DAL.csproj", "{6364E32D-B99E-4DBC-A8C6-4438D58FD3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMU.BAL", "AMU.BAL\AMU.BAL.csproj", "{AEFA4DEA-696F-41E1-B7ED-F0E0DF3E98B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7BF5F5-B016-4CC1-853B-4BB832DF1B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7BF5F5-B016-4CC1-853B-4BB832DF1B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7BF5F5-B016-4CC1-853B-4BB832DF1B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7BF5F5-B016-4CC1-853B-4BB832DF1B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6364E32D-B99E-4DBC-A8C6-4438D58FD3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6364E32D-B99E-4DBC-A8C6-4438D58FD3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6364E32D-B99E-4DBC-A8C6-4438D58FD3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6364E32D-B99E-4DBC-A8C6-4438D58FD3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFA4DEA-696F-41E1-B7ED-F0E0DF3E98B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFA4DEA-696F-41E1-B7ED-F0E0DF3E98B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFA4DEA-696F-41E1-B7ED-F0E0DF3E98B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFA4DEA-696F-41E1-B7ED-F0E0DF3E98B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
